@@ -1,0 +1,2 @@
+import chapter_07.chapter_07_example_7_2_registration as chapter_07_example_7_2_registration
+print(chapter_07_example_7_2_registration.registry)
